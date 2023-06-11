@@ -1,4 +1,4 @@
-## CS6400 GT_Online Sample Project
+# Sell Used Car System Design and Implementation
 
 ## Getting Started
 These instructions the GT_Online project up and running on your local machine for development and testing purposes. 
