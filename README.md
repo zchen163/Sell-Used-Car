@@ -8,7 +8,7 @@ This project aims at design and implementation of a used car selling system usin
 
 ## Abstract Code with SQL
 
-See AC with SQL in file 
+See AC with SQL in file team22_p2_ac+SQL.pdf. 
 
 ## Implementation
 
